@@ -1,7 +1,8 @@
 # JavaScript Notes
 
 # Table of Contents  
-[LogicalOperators](#LogicalOperators)
+[Logical Operators](#LogicalOperators)
+
 [Arrays](#Arrays)  
 
 ### LogicalOperators
