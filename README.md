@@ -13,10 +13,9 @@ Here’s a description of the different logical operators:
 
 ### Arrays
 
-An array is useful because it stores multiple values into a single, organized data structure. You can define a new array by listing values separated with commas between square brackets []
+An array is useful because it stores multiple values into a single, organized data structure. You can define a new array by listing values separated with commas between square brackets [ ]
 
 ```
-e.g
 var donuts = ["glazed", "chocolate frosted", "cinnamon", "sprinkled"];
 ```
 
