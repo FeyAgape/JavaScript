@@ -47,3 +47,13 @@ var arraysInArrays = [
   [true, false, true, false]
 ];
 ```
+
+**Arrays properties and methods**
+
+- Property - Length: can be used to get the number of elements in an array
+- Methods - REVERSE: reversed the order of the elements in an array
+- Methods - SORT: sorts the elements in an array
+- Methods - PUSH & POP: two methods that allow us to add and remove elements from an array
+- Methods - Splice (): allow us to add and remove elements from  anywhere within an array
+
+- Array.length: You can find the length of an array by using its length property.
