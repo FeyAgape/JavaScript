@@ -1,5 +1,9 @@
 # JavaScript Notes
 
+# Table of Contents  
+[Logical operators](#Logical operators)
+[Arrays](#Arrays)  
+
 ### Logical operators
 
 Logical operators can be used in conjunction with boolean values (true and false) to create complex logical expressions.
@@ -11,7 +15,7 @@ Here’s a description of the different logical operators:
 3. ! Logical NOT !value1 Returns the opposite of value1. If value1 is true, then !value1 is false.So adding it to the start of a value reverses it.
 
 
-### Arrays
+### Arrays [readmore](https://github.com/FeyAgape/Intro-To-Javascript/blob/master/javascript-arrays-examples.js)
 
 An array is useful because it stores multiple values into a single, organized data structure. You can define a new array by listing values separated with commas between square brackets [ ]
 
@@ -25,7 +29,7 @@ You can create a **mixedData** array with mixed data types
 var mixedData = ["abcd", 1, true, undefined, null, "all the things"];
 ```
 
-You can even store an array in an array to create a nested array!
+You can even store an array in an array to create a **nested** array!
 
 ```
 // creates a `arraysInArrays` array with three arrays
