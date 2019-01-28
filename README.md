@@ -6,6 +6,7 @@
 [Arrays](#Arrays)  
 
 ### LogicalOperators
+[Readmore](https://github.com/FeyAgape/Intro-To-Javascript/blob/master/javascript-conditional-examples.js)
 
 Logical operators can be used in conjunction with boolean values (true and false) to create complex logical expressions.
 By combining two boolean values together with a logical operator, you create a logical expression that returns another boolean value. 
