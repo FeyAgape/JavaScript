@@ -16,6 +16,23 @@ Here’s a description of the different logical operators:
 2. ||  Logical OR  value1 || value2  Returns true if either value1 or value2 (or even both!) evaluates to true.
 3. ! Logical NOT !value1 Returns the opposite of value1. If value1 is true, then !value1 is false.So adding it to the start of a value reverses it.
 
+### Examples
+
+```
+==	equal to	x == 8	false	
+x == 5	true	
+x == "5"	true	
+===	equal value and equal type	x === 5	true	
+x === "5"	false	
+!=	not equal	x != 8	true	
+!==	not equal value or not equal type	x !== 5	false	
+x !== "5"	true	
+x !== 8	true	
+>	greater than	x > 8	false	
+<	less than	x < 8	true	
+>=	greater than or equal to	x >= 8	false	
+<=	less than or equal to
+```
 
 ## Arrays 
 [Readmore](https://github.com/FeyAgape/Intro-To-Javascript/blob/master/javascript-arrays-examples.js)
